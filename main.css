@@ -1,0 +1,30 @@
+h1 {
+  color: #FFB6C1;
+  font-family: Snell Roundhand, cursive;
+  font-size: 75px;
+  text-align: center;
+  margin: 30px 0 0 0;
+}
+h2 {
+  text-align: center;
+  margin: 10px 0 40px 0;
+  color: #FFB6C1;
+  font-family: Snell Roundhand, cursive;
+  font-size: 20px;
+}
+body {
+  font-family: helvetica, sans-serif;
+  margin: 0 auto;
+  max-width: 600px;
+  background-image: url("marblebackround.jpg");
+  background-size: cover;
+}
+li {
+    display: block;
+    padding: 5px;
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+  ul {
+    padding: 10px;
+}
