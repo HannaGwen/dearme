@@ -44,7 +44,8 @@ p{
 
 }
 .column1 {
-  background-image: url(img1.png);
+  background-image: url("img1.jpg");
   background-size: cover;
   background-position: centre;
+
 }
