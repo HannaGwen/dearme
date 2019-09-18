@@ -36,3 +36,15 @@ a:hover{
   color: hotpink;
 
 }
+
+p{
+  color:grey;
+  background-color: white;
+  padding: 10px 50px 10px 50px;
+
+}
+.column1 {
+  background-image: url(img1.png);
+  background-size: cover;
+  background-position: centre;
+}
