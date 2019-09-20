@@ -45,8 +45,11 @@ p{
 .col-md-6{
   margin: 10px 0;
 }
-.img-responsive{
-  max-width: 400px;
-  max-height: 400px;
 
+.img-responsive{
+max-width: 100%;
+}
+
+.img-responsive:hover{
+  opacity:0.5;
 }
