@@ -13,7 +13,7 @@ h2 {
   font-size: 20px;
 }
 body {
-  font-family: helvetica, sans-serif;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
   margin: 0 auto;
   max-width: 600px;
   background-image: url("marblebackround.jpg");
@@ -43,9 +43,11 @@ p{
   padding: 10px 50px 10px 50px;
 
 }
-.column1 {
-  background-image: url("img1.jpg");
-  background-size: cover;
-  background-position: centre;
+.col-md-6{
+  margin: 10px 0;
+}
+.img-responsive{
+  max-width: 400px;
+  max-height: 400px;
 
 }
