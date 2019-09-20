@@ -5,62 +5,89 @@ h1 {
   text-align: center;
   margin: 30px 0 0 0;
 }
-h1:hover{
+
+h1:hover {
   color: hotpink;
   text-decoration: none;
 }
+
 h2 {
   text-align: center;
   margin: 10px 0 40px 0;
   color: #FFB6C1;
   font-family: Snell Roundhand, cursive;
-  font-size: 30px;
+  font-size: 20px;
 }
+
+h3 {
+  text-align: center;
+  color: #FFB6C1;
+  font-family: Snell Roundhand, cursive;
+  font-size: 40px;
+}
+
 body {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   margin: 0 auto;
   max-width: 600px;
   background-image: url("marblebackround.jpg");
   background-size: cover;
-  font-size;20px;
-
+  font-size;
+  20px;
 }
+
 li {
-    display: inline;
-    padding: 0px 10px 0px 10px;
-}
-  ul {
-padding-left: 120px;
+  display: inline;
+  padding: 0px 10px 0px 10px;
 }
 
-a{
+ul {
+  padding-left: 120px;
+}
+
+a {
   color: #FFB6C1;
 }
-a:hover{
+
+a:hover {
   color: hotpink;
   text-decoration: none;
 }
 
-p{
-  color:grey;
+p {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  color: grey;
   background-color: white;
   padding: 10px 50px 10px 50px;
-
+  border-radius: 20px;
+  text-align:center;
 }
-.col-md-4{
+b{
+  color: #FFB6C1;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.col-md-4 {
   margin: 10px 0;
 }
 
-.img-responsive{
-max-width: 100%;
+.img-responsive {
+  max-width: 100%;
 }
 
-.img-responsive:hover{
-  opacity:0.5;
+.img-responsive:hover {
+  opacity: 0.5;
 }
 
-.backgroundinsta{
+.backgroundinsta {
   background-color: white;
   padding: 20px;
   border-radius: 20px;
+  margin: 20px;
+}
+.rowcont{
+
+}
+.clearfix {
+  text-align: center;
 }
